@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "244907738299",
+    "firebase_url": "https://mood-companion-ee1e1.firebaseio.com",
+    "project_id": "mood-companion-ee1e1",
+    "storage_bucket": "mood-companion-ee1e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244907738299:android:224c83f67e649f9b2c559e",
+        "android_client_info": {
+          "package_name": "com.example.dailydiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244907738299-jjpfbgobi70kj3f15jeendsufmbicbo1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dailydiary",
+            "certificate_hash": "33beb69514dc8bfcc8b26b58bd6c9b2803d431e1"
+          }
+        },
+        {
+          "client_id": "244907738299-fkrruloi2ftujgqts9ndic29s0s3g1ad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzDiosww6fQ1Nni6RWJTGA63j4ioyntV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244907738299-fkrruloi2ftujgqts9ndic29s0s3g1ad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
